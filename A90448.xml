@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The peoples right briefly asserted.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90448</idno><idno type="EEBO-CITATION">99863300</idno>
+  <idno type="VID">115492</idno>
+  <idno type="EEBO-PROQUEST">2240960820</idno>
+  
+            <idno type="STC">Wing P1447</idno>
+            <idno type="STC">Thomason E538_13</idno>
+            <idno type="STC">ESTC R203317</idno>
+            <idno type="PROQUEST">99863300</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863300e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90448)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115492)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E538[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The peoples right briefly asserted.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the information of the commonalty of England, France, and all other neighbor nations, that groan under the oppression of tyrannical government,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan. 15." The 9 in the date has been crossed out and replaced with "1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Despotism --  Early works to 1800.</term>
+               <term type="topical_term">Government, Resistance to --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Kings and rulers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115492:1"/>
+            <p>THE PEOPLES RIGHT BRIEFLY <hi>ASSERTED.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Information of the Commonalty of <hi>England, France,</hi> and all other neighbor Nations, that groan under the oppression of Tyrannical Government. 164<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115492:2"/>
+            <pb n="3" facs="tcp:115492:2"/>
+            <head>The Peoples Right briefly asserted.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is the Judgment of Ancient, and the best of Mo<g ref="char:EOLhyphen"/>dern Writers. That the Body of a People, repre<g ref="char:EOLhyphen"/>sented in a Convention of elected Estates, have a true and lawful power to despose of things at pleasure, for their own Safety and Security; and in order to that, to despose of the King o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Prince, if he neglect his Duty, or act contrary to that end for which he was at first ordained; for that Kings are constituted for the Peoples good, not the People made for a Kings pleasure, is a thing granted by all rational men.</p>
+            <p>That therfore Kings have been, and justly may be layd aside, or otherwise censured, when they <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ail of that Duty, Historians will give Examples in all Kingdoms; and Political Writers sufficient Reasons for such Examples: Of which multitude it is not needful to grasp all; but such as have happened in those King<g ref="char:EOLhyphen"/>doms which are neerest to <hi>England,</hi> both in Seituation and Constitution of Government. Nor is it probable that such Examples had been so frequent, had it not been generally thought a thing consonant to the Laws of Nature and Reason.</p>
+            <p>The Kingdom of <hi>France</hi> hath heretofore, not only in the boast of her own Writers, but consent of others, been esteem<g ref="char:EOLhyphen"/>ed a Government of the best Constitution, (though of late years it hath lost, in a high degree, the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ust Liberty of the Nati<g ref="char:EOLhyphen"/>on,) and hath abounded with Examples of this kinde. It is not therefore incident only to those Kingdom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, where the King is apparently Elective, but Hereditary also, as <hi>France</hi> is accounted. For the People never lost, nor gave away their supream Power of making Election, when need required, even in such Kingdoms. For though i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heritance in the Crown were tolerated, to avoyd <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>itious Cont<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions, Divisions, Inter<g ref="char:EOLhyphen"/>regnums, and other inconveniences of Elections; yet when greater mischi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fs happe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, as Tyr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nny in Government, the
+<pb n="4" facs="tcp:115492:3"/> People did still, retain to themselves a power of curing th<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Malady; namely, of expelling those Tyrants, and choosing good Kings in their room.</p>
+            <p>The Parliaments of <hi>France</hi> (saith <hi>Almonius</hi>) had so supream an Authority, that not only all Laws were by them made and established, Peace and War decreed, Tributes imposed, and Offices conferred; but <hi>Kings</hi> also were by the same Authority, for Riot, Sloth, or Tyranny, layd aside, thrust into Monasteries, or otherwise punished; and sometimes, by that Power, whole Royal Families were deprived of Succession to the Crown▪ even as they were at first advanced by the People. So that (saith he) <hi>By whose approbation they were at first preferred, by their dislike they were again reiected. But before we come to particu<g ref="char:EOLhyphen"/>lar I<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>stances, let us consider the Reasons.</hi>
+            </p>
+            <p>Whosoever considereth that Kings and all Governors were instituted for the peoples happiness, and made by their consent, must needs acknowledg that end, to be first and especially look<g ref="char:EOLhyphen"/>ed into: And because Kings, as men, may stray from their right way, and fail of their Duty; therefore Laws were made for a Bridle to them: which were indeed no Bridle, if therewere no power to apply them, and see the Execution done: Which hath made divers of the learned political Writers (for it is not the voyce of one) to wonder, that in Legitimate kingdoms (for we speak not of barbarous Tyrannies) any man should be so sottish, as to think or say, that private men should be enabled by the Law to sue the <hi>Prince</hi> for a small quantity of Land or Goods: and yet that the Representative Body of the whole <hi>People</hi> have not power to lay the Law against him for <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arricide, massacring of the People,</hi> and Treason (for that is their word) against his whole Country, and the Being of the Laws themselves: that the Law should use any severity in small things: and give im<g ref="char:EOLhyphen"/>punity, with absolute license, in the greatest and most hemous of<g ref="char:EOLhyphen"/>fences. And upon that point of a <hi>Kings</hi> offe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ding against his <hi>Peo<g ref="char:EOLhyphen"/>ple</hi> and Country, it is that <hi>Bartolus</hi> speaks, when he proveth the whole <hi>People</hi> to be superior to the <hi>King,</hi> and Prop<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ietary Lord of the kingdom: whereas the <hi>King</hi> is but as Steward and Administrator of it.</p>
+            <p>Therefore (saith he) <hi>A King may commit Treason against
+<pb n="5" facs="tcp:115492:3"/> the People, and be a Traytor and R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bel to his Country: and may justly be deposed, and further punished, by that Lord against whom he hath offended, which is the People, and those who repre<g ref="char:EOLhyphen"/>sent them. And if the King</hi> (saith he) <hi>go so far as to Arms and Force, those Representers are to call the People to Arms, and proceed against him, in all points, as against a publique enemy.</hi>
+            </p>
+            <p>Hence came that old saying of wise men, That in the Nature of Man there are two Monsters, Anger and Lust: and that it is the Office of the Law to bridle these two, and subject them to the rule of Reason. <hi>He therefore that would</hi> (saith <hi>Buchanan) let loose a King, or any other Man, from the curb of the Law, doth not let loose one Man, but two Monsters, to affront Reason.</hi> To the same purpose <hi>Aristotle</hi> concludeth, <hi>that he, which o<g ref="char:EOLhyphen"/>beyeth the Law, obeyeth God and the Law: but he that absolutely obeyeth a Kings will, obeyeth a Man, and a Beast.</hi>
+            </p>
+            <p>The <hi>Law</hi> is more powerful then the <hi>King,</hi> as being the Co<g ref="char:EOLhyphen"/>vernor and Moderator of his losts and actions: But the whole Body of the people are more powerful then the <hi>Law,</hi> as being the parent of it. For the <hi>People</hi> make the Law, and have power when they see cause, to abrogate or establish it. Therefore see<g ref="char:EOLhyphen"/>ing that the <hi>Law</hi> is above the <hi>King,</hi> and the <hi>People</hi> above the <hi>Law:</hi> it is concluded as a thing out of question, by <hi>Buchanan, Iunius,</hi> and many others, that the <hi>People</hi> of right have power to call in question, and punish a <hi>King</hi> for transgressing the <hi>Law.</hi>
+            </p>
+            <p>If you look after examples, you may find many in almost all the legitimate <hi>Kingdome</hi> that are known. Certain it is that the <hi>French,</hi> by authority of their publike Convention or <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> deposed <hi>Childerike</hi> the first, <hi>Sigibert, Theodorik<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and <hi>Chil<g ref="char:EOLhyphen"/>derike</hi> the third for their Tyra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny and unworthiness, and set up some of another Family in their <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oms▪ some of them for being too much governed by wan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on and wicked Favourites, esteeming it all one, whether himself were extream vicious, o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ruled by them that were so. By the same Representative autho<g ref="char:EOLhyphen"/>rity, in conventions of the whole people (which were not much unlike the <hi>French</hi> or <hi>English Parliaments</hi>) were two <hi>Emperors</hi> of <hi>Germany</hi> deposed, <hi>Adolp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us</hi> and <hi>Wencesla<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> though not so much b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <hi>Princes,</hi> as not good enough: The like hath been
+<pb n="6" facs="tcp:115492:4"/> done i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Denmark,</hi> and in <hi>Sw<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thland,</hi> with divers other <hi>King▪ doms</hi> in <hi>Europe,</hi> as <hi>Hungary, Spain, Portugal, Bohemia,</hi> testified by good and authentick Historians.</p>
+            <p>But in the <hi>Kingdom of Scotland</hi> their own Historian <hi>George Buchanan</hi> expresseth in plain terms, that he could name above a d<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> n <hi>Kings</hi> of <hi>Scotland,</hi> who▪ for their bad Reigns, were either condemned to perpetual imprisonment: or else by ban<g ref="char:EOLhyphen"/>ishment, or voluntary death, (which some of them chose) escaped the just punishment of their offences.</p>
+            <p>But least (saith he) <hi>any man should think I produce only old and obsolete examples of Kings long ago, such as were</hi> Culenus, Evenus, Ferchardus, <hi>and the like, I will instance one in the memo<g ref="char:EOLhyphen"/>ry of our Fathers.</hi> James <hi>the third was by the General Consent of Parliament declared to be iustly slain for his cruelty, and wick<g ref="char:EOLhyphen"/>ed Raign; and it was ordered for the future, That none of those who had any hand, or gave assistance in his death, should ever be questioned, or tainted with any ignominy. That thing therefore</hi> (saith he) <hi>which being already done, was iudged by the State to be well, and iustly done, was doubtlesly proposed as exemplary for the future.</hi> This <hi>James</hi> the third was slain in <hi>Chase,</hi> after a Battel, in which he was vanquished; where <hi>Buchanan</hi> expres<g ref="char:EOLhyphen"/>seth. That the State made one War against him to destroy his wicked Councel; but the second War was to destroy the King himself, as being incorrigible.</p>
+            <p>This Restraint of Regal License the same Author confidently praiseth in his Nation, as a thing not only good and wholesom for the People, but profitable for the Kings themselves, and ad<g ref="char:EOLhyphen"/>vantagious to their Posterities, alledging that for a main Rea<g ref="char:EOLhyphen"/>son, Why the Crown of <hi>Scotland</hi> hath continued the longest of any Crown in one Family, whereas other Crowns in <hi>Europe</hi> have been often changed from one race to another.</p>
+            <p>
+               <hi>England</hi> hath not wanted examples in this kind, though they have not been so frequent as in <hi>Scotland;</hi> two of the greatest note were <hi>Edward</hi> the second, and <hi>Richard</hi> the second, whose unfortunate Raigns are so generally known, and have so often upon this s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d occasion in present been produced <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s instances, that it were needless to dwell upon the particulars of them; therefore I only name them, and forbear also particularly to re<g ref="char:EOLhyphen"/>late
+<pb n="7" facs="tcp:115492:4"/> how f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r some other dev<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing Princes, as <hi>King Iohn,</hi> and <hi>Henry</hi> the third, have been restrained by Parliaments; and how much the best of <hi>Englands</hi> Princes, such as <hi>Edward</hi> the first, <hi>Edward</hi> the third, and <hi>Henry</hi> the fifth, have freely yeelded to the Controul of that high Court, and thought it no dishon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r to them.</p>
+            <p>Examples also of this kind have happened, and are averred by good Authors, concerning the Popes themselves; namely, that the Cardinals, upon some special occasions, may, without the con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent of the Pope, call a Councel and judg him by it, if by any great and notor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous sin he become a sc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndal to the Universal Church, and be incorrigible, since Reformation is as necessar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the Head, as in the Members; if contrary to his Oath he re<g ref="char:EOLhyphen"/>fuse to c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll a Geneneral Councel, &amp;c. But certain it is, that some of them have been deposed by authority of a Councel▪ This is (saith <hi>Bald<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi>) in case the Pope <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>very abstinate: For first, Exhortations must be used; secondly, more severe remedie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>▪ and last of all, plainforce; and where no wisdom can prevail <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y Councel, force of arms must be th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> remedy to cure him▪ <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> there<g ref="char:EOLhyphen"/>fore by confent of almost all the learned men, and many exam<g ref="char:EOLhyphen"/>ples in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>act, it appear, that a Councel may justly depose a Pop<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> who calleth himself <hi>King of Kings,</hi> and challengeth a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> superiority above the Empero<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, as the Sun is above the Mo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and more then that, an authority <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> depose <hi>Kings</hi> and <hi>Emperors</hi> when he sees cause: Who may not as well g<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that the pub<g ref="char:EOLhyphen"/>like Councel of a <hi>Kingdom</hi> may lawfully put down, and punish their <hi>King</hi> for extremily of mi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> government▪</p>
+            <p>Concerning this power of the people in restraining wicked Princes, <hi>Iunius,</hi> in his book <hi>Contra Tyrannos,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a not able inference upon a place in the Prophet <hi>Ierem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ah,</hi> where the Prophet in the eleventh <hi>Chapter,</hi> and fourth <hi>verse,</hi> expresly de<g ref="char:EOLhyphen"/>clareth to the <hi>Kingdom</hi> of <hi>Iudah,</hi> that for the impiety and cru<g ref="char:EOLhyphen"/>elty of <hi>King Manasses,</hi> the people were carryed away captive by the <hi>Assiyrians;</hi> upon which pl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (saith he) very learned Expositors suppose (for we must not think that they were un<g ref="char:EOLhyphen"/>justly punished) the people w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> guilty for not resisting the im<g ref="char:EOLhyphen"/>piety and cruelty of their <hi>King.</hi>
+            </p>
+            <p>But where this power of resisting a <hi>King▪</hi> Within the Realm
+<pb n="8" facs="tcp:115492:5"/> of <hi>Judah,</hi> lay, whether in the seventy <hi>Princes,</hi> or more General Assemblies of State, (being a Government far different from ours,) I make no Judgment. For the <hi>Kings</hi> of <hi>Iudah</hi> raigned in a very absolute way, as far as we can perceive, and exercised a very Tyranny, being that Government which God gave them in his displeasure, for not being content to be honored with Gods immediate Government, administred by his inspired <hi>Prophets;</hi> but desiring a <hi>King</hi> as the Heathen had. But the Li<g ref="char:EOLhyphen"/>mitation of Monarchy is better understood now by people in their own Countries, and by their own Laws, and therefore by English men in <hi>England,</hi> whose just Liberties cannot be alto<g ref="char:EOLhyphen"/>gether unknown to those that are wise in their neighbor Nati<g ref="char:EOLhyphen"/>ons, who also have title to the same (or very like) Liberties. Neither can it be denyed (in this l<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te sad and bloody tryal▪ but that the <hi>Parliament</hi> of <hi>England,</hi> if they had a lawful pow<g ref="char:EOLhyphen"/>er to proceed in this War, have also a just power to despose of that Victory which God hath put into their hands, as they shall think best for the future security of the whole people, whom they represent: Nor is that security, by the Laws of Reason and Nature, to be made slightly, which hath cost the lives of▪ so ma<g ref="char:EOLhyphen"/>ny thousands, and so vast an expence of Treasure for the pur<g ref="char:EOLhyphen"/>chase of it: And though they long suffered with patience the pressure of Tyranny heretofore, and moved more slowly to a Vindication then sharp necessity seemed to require, (as being not more afflicted with the sence of their wounds, then grieved to discover the hand that made them,) yet wise men will so cen<g ref="char:EOLhyphen"/>sure of their past sufferings, and present actions, as neither to think the just Rights of English Freedom lessened by any length of patience, nor the <hi>King</hi> made more excusable by any continuance and increase of his offences.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
